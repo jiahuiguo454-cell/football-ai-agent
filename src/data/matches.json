@@ -1,12 +1,12 @@
 [
   {
-    "id": "england-congo-dr-20260701",
-    "date": "2026-07-01 16:00",
+    "id": "spain-austria-20260702",
+    "date": "2026-07-02 19:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "Mercedes-Benz Stadium",
-    "homeTeam": "England",
-    "awayTeam": "Congo DR",
+    "venue": "SoFi Stadium",
+    "homeTeam": "Spain",
+    "awayTeam": "Austria",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
@@ -68,13 +68,13 @@
     }
   },
   {
-    "id": "belgium-senegal-20260701",
-    "date": "2026-07-01 20:00",
+    "id": "portugal-croatia-20260702",
+    "date": "2026-07-02 23:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "Lumen Field",
-    "homeTeam": "Belgium",
-    "awayTeam": "Senegal",
+    "venue": "BMO Field",
+    "homeTeam": "Portugal",
+    "awayTeam": "Croatia",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
@@ -136,13 +136,13 @@
     }
   },
   {
-    "id": "united-states-bosnia-herzegovina-20260701",
-    "date": "2026-07-02 00:00",
+    "id": "switzerland-algeria-20260702",
+    "date": "2026-07-03 03:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "Levi's Stadium",
-    "homeTeam": "United States",
-    "awayTeam": "Bosnia-Herzegovina",
+    "venue": "BC Place",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Algeria",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
