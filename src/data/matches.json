@@ -1,12 +1,12 @@
 [
   {
-    "id": "spain-austria-20260702",
-    "date": "2026-07-02 19:00",
+    "id": "australia-egypt-20260703",
+    "date": "2026-07-03 18:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "SoFi Stadium",
-    "homeTeam": "Spain",
-    "awayTeam": "Austria",
+    "venue": "AT&T Stadium",
+    "homeTeam": "Australia",
+    "awayTeam": "Egypt",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
@@ -68,13 +68,13 @@
     }
   },
   {
-    "id": "portugal-croatia-20260702",
-    "date": "2026-07-02 23:00",
+    "id": "argentina-cape-verde-20260703",
+    "date": "2026-07-03 22:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "BMO Field",
-    "homeTeam": "Portugal",
-    "awayTeam": "Croatia",
+    "venue": "Hard Rock Stadium",
+    "homeTeam": "Argentina",
+    "awayTeam": "Cape Verde",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
@@ -136,13 +136,13 @@
     }
   },
   {
-    "id": "switzerland-algeria-20260702",
-    "date": "2026-07-03 03:00",
+    "id": "colombia-ghana-20260703",
+    "date": "2026-07-04 01:30",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "BC Place",
-    "homeTeam": "Switzerland",
-    "awayTeam": "Algeria",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "homeTeam": "Colombia",
+    "awayTeam": "Ghana",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
