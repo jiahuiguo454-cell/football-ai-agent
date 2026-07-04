@@ -1,12 +1,12 @@
 [
   {
-    "id": "australia-egypt-20260703",
-    "date": "2026-07-03 18:00",
+    "id": "canada-morocco-20260704",
+    "date": "2026-07-04 17:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "AT&T Stadium",
-    "homeTeam": "Australia",
-    "awayTeam": "Egypt",
+    "venue": "NRG Stadium",
+    "homeTeam": "Canada",
+    "awayTeam": "Morocco",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
@@ -68,81 +68,13 @@
     }
   },
   {
-    "id": "argentina-cape-verde-20260703",
-    "date": "2026-07-03 22:00",
+    "id": "paraguay-france-20260704",
+    "date": "2026-07-04 21:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "Hard Rock Stadium",
-    "homeTeam": "Argentina",
-    "awayTeam": "Cape Verde",
-    "homeFlag": "",
-    "awayFlag": "",
-    "probabilities": {
-      "home": 38,
-      "draw": 29,
-      "away": 33
-    },
-    "over25": 48,
-    "bothTeamsToScore": 51,
-    "recommendedScore": "1-1",
-    "keyPlayer": "待更新",
-    "riskLabel": "均势盘，注意临场信息",
-    "riskLevel": "medium",
-    "detail": {
-      "eloJudgement": "自动抓取脚本已生成基础赛程，Elo 判断等待模型补充。",
-      "poissonTopScores": [
-        {
-          "score": "1-1",
-          "probability": 13.2
-        },
-        {
-          "score": "1-0",
-          "probability": 10.8
-        },
-        {
-          "score": "0-1",
-          "probability": 10.1
-        },
-        {
-          "score": "2-1",
-          "probability": 8.7
-        },
-        {
-          "score": "0-0",
-          "probability": 8.3
-        }
-      ],
-      "aiAdjustment": "当前为自动生成基础版本，后续可接入球队状态、伤停和赔率信号。",
-      "upsetRisk": "自动版暂按中等风险处理，建议人工复核强弱差距和赛程密度。",
-      "bettingReference": {
-        "winDrawLose": "谨慎参考",
-        "score": "1-1 / 1-0",
-        "totalGoals": "2-3 球",
-        "halfFull": "平平 / 平胜"
-      }
-    },
-    "contribution": {
-      "elo": 20,
-      "poisson": 24,
-      "playerImpact": 12,
-      "marketSignal": 14,
-      "upsetDetector": 16,
-      "backtest": 14
-    },
-    "review": {
-      "status": "待赛",
-      "reason": "比赛尚未开始，等待赛后复盘。",
-      "nextCorrection": "赛后补充比分、命中状态和偏差原因。"
-    }
-  },
-  {
-    "id": "colombia-ghana-20260703",
-    "date": "2026-07-04 01:30",
-    "status": "未开赛",
-    "actualScore": null,
-    "venue": "GEHA Field at Arrowhead Stadium",
-    "homeTeam": "Colombia",
-    "awayTeam": "Ghana",
+    "venue": "Lincoln Financial Field",
+    "homeTeam": "Paraguay",
+    "awayTeam": "France",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
