@@ -1,12 +1,12 @@
 [
   {
-    "id": "canada-morocco-20260704",
-    "date": "2026-07-04 17:00",
+    "id": "brazil-norway-20260705",
+    "date": "2026-07-05 20:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "NRG Stadium",
-    "homeTeam": "Canada",
-    "awayTeam": "Morocco",
+    "venue": "MetLife Stadium",
+    "homeTeam": "Brazil",
+    "awayTeam": "Norway",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
@@ -68,13 +68,13 @@
     }
   },
   {
-    "id": "paraguay-france-20260704",
-    "date": "2026-07-04 21:00",
+    "id": "mexico-england-20260705",
+    "date": "2026-07-06 00:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "Lincoln Financial Field",
-    "homeTeam": "Paraguay",
-    "awayTeam": "France",
+    "venue": "Estadio Banorte",
+    "homeTeam": "Mexico",
+    "awayTeam": "England",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
