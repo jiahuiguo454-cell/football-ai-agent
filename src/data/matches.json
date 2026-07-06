@@ -1,12 +1,12 @@
 [
   {
-    "id": "brazil-norway-20260705",
-    "date": "2026-07-05 20:00",
+    "id": "portugal-spain-20260706",
+    "date": "2026-07-06 19:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "MetLife Stadium",
-    "homeTeam": "Brazil",
-    "awayTeam": "Norway",
+    "venue": "AT&T Stadium",
+    "homeTeam": "Portugal",
+    "awayTeam": "Spain",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
@@ -68,13 +68,13 @@
     }
   },
   {
-    "id": "mexico-england-20260705",
-    "date": "2026-07-06 00:00",
+    "id": "united-states-belgium-20260706",
+    "date": "2026-07-07 00:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "Estadio Banorte",
-    "homeTeam": "Mexico",
-    "awayTeam": "England",
+    "venue": "Lumen Field",
+    "homeTeam": "United States",
+    "awayTeam": "Belgium",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
