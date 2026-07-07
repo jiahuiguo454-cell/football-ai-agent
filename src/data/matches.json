@@ -1,12 +1,12 @@
 [
   {
-    "id": "portugal-spain-20260706",
-    "date": "2026-07-06 19:00",
+    "id": "argentina-egypt-20260707",
+    "date": "2026-07-07 16:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "AT&T Stadium",
-    "homeTeam": "Portugal",
-    "awayTeam": "Spain",
+    "venue": "Mercedes-Benz Stadium",
+    "homeTeam": "Argentina",
+    "awayTeam": "Egypt",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
@@ -68,13 +68,13 @@
     }
   },
   {
-    "id": "united-states-belgium-20260706",
-    "date": "2026-07-07 00:00",
+    "id": "switzerland-colombia-20260707",
+    "date": "2026-07-07 20:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "Lumen Field",
-    "homeTeam": "United States",
-    "awayTeam": "Belgium",
+    "venue": "BC Place",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Colombia",
     "homeFlag": "",
     "awayFlag": "",
     "probabilities": {
