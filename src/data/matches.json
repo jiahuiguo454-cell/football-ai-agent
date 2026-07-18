@@ -1,206 +1,70 @@
 [
   {
-    "id": "civ-nor",
-    "date": "2026-06-30 22:00",
+    "id": "france-england-20260718",
+    "date": "2026-07-18 21:00",
     "status": "未开赛",
     "actualScore": null,
-    "venue": "Seattle Stadium",
-    "homeTeam": "科特迪瓦",
-    "awayTeam": "挪威",
-    "homeFlag": "CI",
-    "awayFlag": "NO",
+    "venue": "Hard Rock Stadium",
+    "homeTeam": "France",
+    "awayTeam": "England",
+    "homeFlag": "",
+    "awayFlag": "",
     "probabilities": {
-      "home": 25,
-      "draw": 27,
-      "away": 48
+      "home": 38,
+      "draw": 29,
+      "away": 33
     },
-    "over25": 42,
-    "bothTeamsToScore": 47,
-    "recommendedScore": "0-1",
-    "keyPlayer": "Erling Haaland",
-    "riskLabel": "挪威小优，防平",
+    "over25": 48,
+    "bothTeamsToScore": 51,
+    "recommendedScore": "1-1",
+    "keyPlayer": "待更新",
+    "riskLabel": "均势盘，注意临场信息",
     "riskLevel": "medium",
     "detail": {
-      "eloJudgement": "挪威 Elo 综合评分略高，客场仍保留轻微实力优势。科特迪瓦身体对抗强，但阵地战创造力偏低。",
+      "eloJudgement": "自动抓取脚本已生成基础赛程，Elo 判断等待模型补充。",
       "poissonTopScores": [
-        {
-          "score": "0-1",
-          "probability": 14.8
-        },
         {
           "score": "1-1",
-          "probability": 13.5
+          "probability": 13.2
         },
         {
-          "score": "0-0",
-          "probability": 10.9
-        },
-        {
-          "score": "1-2",
-          "probability": 9.7
-        },
-        {
-          "score": "0-2",
-          "probability": 8.9
-        }
-      ],
-      "aiAdjustment": "Haaland 的禁区终结效率抬高挪威客胜权重，但科特迪瓦转换速度让平局概率不能被压低。",
-      "upsetRisk": "中等。若挪威边路推进受阻，比赛可能进入低比分拉锯。",
-      "bettingReference": {
-        "winDrawLose": "负，防平",
-        "score": "0-1 / 1-1",
-        "totalGoals": "1-2 球",
-        "halfFull": "平负 / 平平"
-      }
-    },
-    "contribution": {
-      "elo": 24,
-      "poisson": 22,
-      "playerImpact": 18,
-      "marketSignal": 16,
-      "upsetDetector": 10,
-      "backtest": 10
-    },
-    "review": {
-      "status": "待赛",
-      "reason": "赛前模型给出客队小幅优势，主要不确定性来自比赛节奏和挪威客场效率。",
-      "nextCorrection": "赛后重点校准低节奏比赛中的平局权重与关键前锋触球质量。"
-    }
-  },
-  {
-    "id": "fra-swe",
-    "date": "2026-07-01 03:00",
-    "status": "未开赛",
-    "actualScore": null,
-    "venue": "MetLife Stadium",
-    "homeTeam": "法国",
-    "awayTeam": "瑞典",
-    "homeFlag": "FR",
-    "awayFlag": "SE",
-    "probabilities": {
-      "home": 69,
-      "draw": 19,
-      "away": 12
-    },
-    "over25": 61,
-    "bothTeamsToScore": 52,
-    "recommendedScore": "3-1",
-    "keyPlayer": "Kylian Mbappe",
-    "riskLabel": "法国进攻优势明显",
-    "riskLevel": "medium",
-    "detail": {
-      "eloJudgement": "法国 Elo 明显领先，前场速度和中场推进都优于瑞典。瑞典定位球有威胁，但持续压制能力不足。",
-      "poissonTopScores": [
-        {
-          "score": "2-0",
-          "probability": 12.6
-        },
-        {
-          "score": "3-1",
-          "probability": 11.4
-        },
-        {
-          "score": "2-1",
+          "score": "1-0",
           "probability": 10.8
         },
         {
-          "score": "1-0",
-          "probability": 9.6
-        },
-        {
-          "score": "3-0",
-          "probability": 8.8
-        }
-      ],
-      "aiAdjustment": "法国反击威胁提高多进球概率，瑞典高球冲击让双方进球概率保持在 50% 以上。",
-      "upsetRisk": "偏低。除非法国早段浪费机会或瑞典定位球先开局，否则主胜路径较清晰。",
-      "bettingReference": {
-        "winDrawLose": "胜",
-        "score": "3-1 / 2-0",
-        "totalGoals": "3-4 球",
-        "halfFull": "胜胜"
-      }
-    },
-    "contribution": {
-      "elo": 28,
-      "poisson": 24,
-      "playerImpact": 19,
-      "marketSignal": 14,
-      "upsetDetector": 7,
-      "backtest": 8
-    },
-    "review": {
-      "status": "待赛",
-      "reason": "强队优势与大球倾向一致，模型对法国前场效率判断稳定。",
-      "nextCorrection": "继续跟踪瑞典定位球 xG，避免低估弱势方的单点爆破。"
-    }
-  },
-  {
-    "id": "mex-ecu",
-    "date": "2026-07-01 08:00",
-    "status": "未开赛",
-    "actualScore": null,
-    "venue": "Estadio Azteca",
-    "homeTeam": "墨西哥",
-    "awayTeam": "厄瓜多尔",
-    "homeFlag": "MX",
-    "awayFlag": "EC",
-    "probabilities": {
-      "home": 37,
-      "draw": 34,
-      "away": 29
-    },
-    "over25": 39,
-    "bothTeamsToScore": 55,
-    "recommendedScore": "1-1",
-    "keyPlayer": "Enner Valencia",
-    "riskLabel": "高原因素，平局风险高",
-    "riskLevel": "high",
-    "detail": {
-      "eloJudgement": "两队 Elo 接近，墨西哥主场和高原适应性略占优势，厄瓜多尔冲击力能抵消部分场地劣势。",
-      "poissonTopScores": [
-        {
-          "score": "1-1",
-          "probability": 15.9
-        },
-        {
-          "score": "1-0",
-          "probability": 12.1
-        },
-        {
           "score": "0-1",
-          "probability": 10.7
-        },
-        {
-          "score": "0-0",
-          "probability": 10.2
+          "probability": 10.1
         },
         {
           "score": "2-1",
-          "probability": 8.6
+          "probability": 8.7
+        },
+        {
+          "score": "0-0",
+          "probability": 8.3
         }
       ],
-      "aiAdjustment": "高原环境降低开放对攻概率，Valencia 的反击终结让客队仍有进球窗口。",
-      "upsetRisk": "较高。三项概率非常接近，单个定位球或门将状态都可能改变结果。",
+      "aiAdjustment": "当前为自动生成基础版本，后续可接入球队状态、伤停和赔率信号。",
+      "upsetRisk": "自动版暂按中等风险处理，建议人工复核强弱差距和赛程密度。",
       "bettingReference": {
-        "winDrawLose": "平，防胜",
+        "winDrawLose": "谨慎参考",
         "score": "1-1 / 1-0",
-        "totalGoals": "2 球",
+        "totalGoals": "2-3 球",
         "halfFull": "平平 / 平胜"
       }
     },
     "contribution": {
-      "elo": 19,
-      "poisson": 25,
-      "playerImpact": 15,
-      "marketSignal": 13,
-      "upsetDetector": 18,
-      "backtest": 10
+      "elo": 20,
+      "poisson": 24,
+      "playerImpact": 12,
+      "marketSignal": 14,
+      "upsetDetector": 16,
+      "backtest": 14
     },
     "review": {
       "status": "待赛",
-      "reason": "模型判断为高平局风险，核心不确定性来自高原环境和下半场体能衰减。",
-      "nextCorrection": "增加场地海拔、旅行距离和轮换深度对下半场进球率的修正。"
+      "reason": "比赛尚未开始，等待赛后复盘。",
+      "nextCorrection": "赛后补充比分、命中状态和偏差原因。"
     }
   }
 ]
